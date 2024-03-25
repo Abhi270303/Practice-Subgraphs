@@ -5,7 +5,7 @@ Welcome to the Basic Token Information App! This React application fetches token
 ## Features
 
 - Fetches token information from a GraphQL endpoint
-- Displays token ID and name
+- Displays token ID, name, symbol & decimals
 - Supports dynamic rendering of token data
 
 ## Technologies Used
@@ -19,13 +19,13 @@ Welcome to the Basic Token Information App! This React application fetches token
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Abhi270303/Practice-Subgraphs.git
    ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd token-information-app
+cd client
 ```
 
 3. Install dependencies:
